@@ -1,0 +1,25 @@
+  .corcafe {
+    color: #4B2E2E !important;
+  }
+
+  h1, h2, p, .form-label, .form-check, .form-control, .mb-3 {
+    color: #4B2E2E !important;
+  }
+  
+  .bg-light {
+    background-color: #ffffff !important;
+  }
+
+  .btn {
+    background-color: #4B2E2E;
+    color: white;
+    border: none;
+    border-radius: 8px;
+  }
+  .btn:hover {
+    background-color: #E0BEA2 !important  ;
+    color: black;
+  }
+
+  
+  
